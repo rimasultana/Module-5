@@ -186,7 +186,29 @@ padding: 30px;
 .description{ 
     color:#757575 ;
     }
+.resume-buttom{
+    margin-top: 50px;
+    text-align: center;
+}
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.section .section-title{
+    text-align: left;
 
+}
+.contact , input ,area{
+    margin-bottom: 20px;
+    border: 0;
+    padding-left:18px 30px;
+}
+input{
+    height: 64px;
+   
+}
 
 
 
