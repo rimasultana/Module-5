@@ -114,7 +114,21 @@ font-weight: 700;
     font-size: 20px;
     font-weight: 700px;
 }
+.manu{
+    background-color: aliceblue;
+}
+.section-title{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.title-section{
+    text-align: center;
+    font-size: 18px;
 
+    
+
+}
 
 
 
